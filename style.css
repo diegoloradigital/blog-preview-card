@@ -56,6 +56,22 @@ body {
   p {
     color: var(--gray-500);
   }
+
+  a {
+    text-decoration: none;
+    color: var(--gray-950);
+  }
+
+  a:active,
+  a:hover {
+    color: var(--main-background-color);
+  }
+
+  a:focus-visible {
+    color: var(--main-background-color);
+    outline-color: var(--gray-500);
+    padding-block: 0.5rem;
+  }
 }
 
 .article-category {
@@ -78,5 +94,3 @@ body {
     margin-bottom: 0;
   }
 }
-
-
