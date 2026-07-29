@@ -114,8 +114,10 @@ I would like to keep investigating about fit content property on width, as well 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+Helpful YouTube channels with tutorials:
+
+- [Kevin Powel](https://www.youtube.com/@KevinPowell)
+- [Coding2G0](https://www.youtube.com/@coding2go)
 
 ## Author
 
